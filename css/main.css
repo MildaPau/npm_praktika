@@ -1,0 +1,12 @@
+body {
+    display: inline-block;
+    background-color: blue;
+    color: chartreuse;
+}
+h1 {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    background-color: chartreuse;
+    color: blue;
+}
